@@ -32,7 +32,7 @@ User → Internet → AWS WAF → Amazon API Gateway → AWS Lambda
 
 -------------------------------------
 
-## Orange Path: 3Query Metadata (QM)
+## Orange Path: Query Metadata (QM)
 
 This workflow handles searches for previously analyzed images.
 
